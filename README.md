@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Kitaitsas
 
-<!--
-**kitaitsas/Kitaitsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **beginner Lua developer** focused on building scripts for **FiveM servers**.  
+I enjoy learning through practice and improving my skills by working on real projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Profile Summary
+
+- 💻 Lua-focused developer
+- 🎮 FiveM scripting (ESX framework)
+- 📚 Actively learning and improving
+- 🧱 Building practical and maintainable scripts
+- 🔍 Interested in clean and efficient code
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Lua**
+- FiveM
+- ESX Framework
+- Client / Server scripting
+- Basic optimization and debugging
